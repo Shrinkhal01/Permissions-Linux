@@ -15,15 +15,6 @@ The program currently works via the **command-line interface (CLI)**. In the fut
 1. Clone or download the repository.
 2. Run the script from the command line.
 
-Example of input/output:
-
-```bash
-$ python permission_calculator.py
-File Permission Calculator (like `rwxr-xr--` format)
-Enter permissions in `rwxrwxrwx` format (e.g., rwxr-xr--): rwxr-xr--
-Numeric Permission: 755
-```
-
 ## Installation
 To use the File Permission Calculator, you’ll need Python installed on your system. This script works with Python 3.x.
 
